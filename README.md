@@ -82,4 +82,4 @@ Runs on: `http://localhost:3000`
 
 ## 🙋‍♂️ Author
 
-Made with 💻 by [@yourusername](https://github.com/yourusername)
+Made with 💻 by [@Omkar2240](https://github.com/Omkar2240)
