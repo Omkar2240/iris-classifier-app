@@ -4,10 +4,9 @@ A full-stack ML web app that classifies Iris flowers using sepal and petal measu
 
 ## 🔧 Tech Stack
 
-- **Frontend**: Next.js (React)
+- **Frontend**: React (vite)
 - **Backend**: Node.js + Python
 - **ML Model**: Random Forest (scikit-learn)
-- **Deployment**: Ready for Vercel (Frontend) & Render/Fly.io (Backend)
 
 ---
 
