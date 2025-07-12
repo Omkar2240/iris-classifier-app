@@ -14,7 +14,7 @@ A full-stack ML web app that classifies Iris flowers using sepal and petal measu
 
 ```
 iris-classifier-app/
-├── frontend/       # Next.js frontend
+├── frontend/       # React.js frontend
 └── backend/        # Node + Python backend with ML model
 ```
 
