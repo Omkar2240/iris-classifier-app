@@ -75,8 +75,6 @@ Runs on: `http://localhost:3000`
 - **Frontend**: Deploy to [Vercel](https://vercel.com)
 - **Backend**: Deploy to [Render](https://render.com), [Fly.io](https://fly.io), or [Railway](https://railway.app)
 
-> Update the API URL in `frontend/pages/index.tsx` when deployed.
-
 ---
 
 ## 🙋‍♂️ Author
